@@ -1,5 +1,3 @@
 233333abcd
 hhhhhhhssssss
-Creating a new branch is quick.
-weiwei is a handsome boy
-hi,everybody
+Creating a new branch is quick & simple.
